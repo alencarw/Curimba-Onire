@@ -21,6 +21,13 @@ const playlists = [
     description: "Salve Tranca Ruas e Dama da Noite",
     icon: "❤️‍🔥",
     playlistId: "PLepdMMWdyUcY"
+  },
+    {
+    title: "Exú 🔱",
+    category: "Rap",
+    description: "Odara, morador da encruzilhada",
+    icon: "🔱",
+    playlistId: "PLMONGUQLlncE"
   }
 ];
 
