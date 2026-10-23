@@ -11,7 +11,7 @@ const playlists = [
   {
     title: "Defumação 🍃",
     category: "Defumação",
-    description: "JUREMÊEEEE.",
+    description: "Salve as folhas sagradas.",
     icon: "🍃",
     playlistId: "PLChfAxOjiDFo"
   },
