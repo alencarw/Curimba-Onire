@@ -24,7 +24,7 @@ const playlists = [
   },
     {
     title: "Exú 🔱",
-    category: "Éxú",
+    category: "Exú",
     description: "Odara, morador da encruzilhada",
     icon: "🔱",
     playlistId: "PLMONGUQLlncE"
